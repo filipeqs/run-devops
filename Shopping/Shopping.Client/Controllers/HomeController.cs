@@ -2,7 +2,6 @@
 using Newtonsoft.Json;
 using Shopping.Client.Models;
 using System.Diagnostics;
-using System.Text.Json;
 
 namespace Shopping.Client.Controllers
 {
